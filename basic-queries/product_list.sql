@@ -47,7 +47,7 @@ FROM Categories;
 
 -- number 10
 SELECT *
-FROM products
+FROM northwind.products
 WHERE  CategoryID = 8;
 
 -- number 11
